@@ -1,0 +1,10 @@
+WhatsApp: com.whatsapp
+Facebook: com.facebook.katana
+Instagram: com.instagram.android
+Twitter: com.twitter.android
+Snapchat: com.snapchat.android
+TikTok: com.zhiliaoapp.musically
+YouTube: com.google.android.youtube
+Spotify: com.spotify.music
+Uber: com.ubercab
+LinkedIn: com.linkedin.android
